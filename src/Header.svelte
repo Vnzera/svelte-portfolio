@@ -1,5 +1,11 @@
 <script>
+  function openNav() {
+    document.getElementById("modal").style.width = "100%";
+  }
 
+  function closeNav() {
+    document.getElementById("modal").style.width = "0";
+  }
 </script>
 
 <style>
@@ -38,6 +44,8 @@
     padding: 1.5px;
   }
 
+  /* icon styles */
+
   i {
     font-size: 1.5rem;
     cursor: pointer;
@@ -46,11 +54,69 @@
   .fa-beer {
     margin-right: auto;
   }
+
+  /* overlay for modal on mobile */
+  #modal {
+    height: 100%;
+    width: 0; /*manipulate this in the script*/
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    background-color: white;
+    overflow-x: hidden;
+    transition: all 0.5s ease 0s;
+  }
+
+  /* styles for mobile nav */
+  #mobile {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #mobile a {
+    padding: 15px;
+    font-size: 36px;
+    display: block;
+    transition: all 0.3s ease 0s;
+  }
+
+  /* styles for close button */
+  #close {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 40px;
+    border-radius: 40px;
+    background-color: white;
+    color: rgb(18, 114, 93);
+  }
+
+  #close:hover {
+    box-shadow: 2px 2px 6px rgb(21, 150, 122);
+  }
+
+  /* media quieries */
+  @media only screen and (min-width: 800px) {
+    #open {
+      display: none;
+    }
+  }
+
+  @media only screen and (max-width: 800px) {
+    ul {
+      display: none;
+    }
+  }
 </style>
 
 <header>
   <i class="fas fa-beer" />
   <nav>
+    <a id="open" on:click={openNav}>Menu</a>
     <ul>
       <li>
         <a href="#home">Home</a>
@@ -68,7 +134,7 @@
         <a href="#contact">Contact</a>
       </li>
       <li>
-        <a href="https://www.github.com/zdrifted" target="_blank">
+        <a id="git" href="https://www.github.com/zdrifted" target="_blank">
           <i class="fab fa-github" />
         </a>
       </li>
@@ -76,3 +142,15 @@
   </nav>
 
 </header>
+
+<!-- clicking a mobile link should close out the modal also.  -->
+
+<div id="modal">
+  <button id="close" on:click={closeNav}>X</button>
+  <div id="mobile">
+    <a href="#about" on:click={closeNav}>About</a>
+    <a href="#services" on:click={closeNav}>Services</a>
+    <a href="#projects" on:click={closeNav}>Projects</a>
+    <a href="#contact" on:click={closeNav}>Contact</a>
+  </div>
+</div>
