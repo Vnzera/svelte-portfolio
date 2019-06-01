@@ -1,4 +1,5 @@
 <script>
+  import Header from "./Header.svelte";
   import Cart from "./Cart.svelte";
   import Product from "./Product.svelte";
   import Button from "./Button.svelte";
@@ -45,6 +46,8 @@
     width: 100%;
   }
 </style>
+
+<Header />
 
 <section>
   <Cart items={cartItems} />

@@ -6,6 +6,7 @@
     border: 1px solid rgb(18, 114, 93);
     color: white;
     cursor: pointer;
+    transition: all 0.15s ease 0s;
   }
 
   button:hover,
