@@ -19,5 +19,7 @@
     "start": "sirv public",
     "start:dev": "sirv public --dev"
   },
-  "dependencies": {}
+  "dependencies": {
+    "firebase": "^6.1.1"
+  }
 }

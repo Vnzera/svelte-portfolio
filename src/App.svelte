@@ -3,7 +3,7 @@
   import About from "./About.svelte";
   import Projects from "./Projects.svelte";
   // import Services from "./Services.svelte";
-  // import Contact from "./Contact.svelte";
+  import Contact from "./Contact.svelte";
 
   // import Button from "./Button.svelte";
 </script>
@@ -22,5 +22,9 @@
 </style>
 
 <Header />
+<hr />
 <About />
+<hr />
 <Projects />
+<hr />
+<Contact />
