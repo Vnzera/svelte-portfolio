@@ -9,6 +9,9 @@
 </script>
 
 <style>
+  hr {
+    margin: 2rem 0;
+  }
   /* section {
     width: 30rem;
     margin: auto;

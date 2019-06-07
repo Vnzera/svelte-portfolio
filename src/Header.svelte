@@ -51,7 +51,7 @@
     cursor: pointer;
   }
 
-  .fa-beer {
+  .fa-code {
     margin-right: auto;
   }
 
@@ -69,6 +69,14 @@
   }
 
   /* styles for mobile nav */
+
+  #open {
+    box-shadow: 2px 2px 6px rgb(21, 150, 122);
+    border-radius: 5px;
+    margin: 5px;
+    padding: 1.5px;
+    cursor: pointer;
+  }
   #mobile {
     display: flex;
     height: 100%;
@@ -114,7 +122,7 @@
 </style>
 
 <header>
-  <i class="fas fa-beer" />
+  <i class="fas fa-code" />
   <nav>
     <a id="open" on:click={openNav}>Menu</a>
     <ul>
@@ -134,9 +142,7 @@
         <a href="#contact">Contact</a>
       </li>
       <li>
-        <a id="git" href="https://www.github.com/zdrifted" target="_blank">
-          <i class="fab fa-github" />
-        </a>
+        <i class="fas fa-arrow-alt-circle-left" />
       </li>
     </ul>
   </nav>
