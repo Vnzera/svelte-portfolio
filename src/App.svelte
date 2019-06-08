@@ -2,7 +2,7 @@
   import Header from "./Header.svelte";
   import About from "./About.svelte";
   import Projects from "./Projects.svelte";
-  // import Services from "./Services.svelte";
+  import Services from "./Services.svelte";
   import Contact from "./Contact.svelte";
 
   // import Button from "./Button.svelte";
@@ -27,6 +27,8 @@
 <Header />
 <hr />
 <About />
+<hr />
+<Services />
 <hr />
 <Projects />
 <hr />
