@@ -28,50 +28,34 @@
     width: 4.75rem;
     margin: 0 auto;
   }
-
-  /* .form-group {
-
-  }
-
-  .form-control {
-
-  } */
 </style>
 
-<form id="contact" class="form" method="post" action="">
+<form
+  data-netlify="true"
+  name="contact"
+  id="contact"
+  class="form"
+  method="post"
+  action="">
 
-  <div class="form-group">
+  <div>
     <label for="email">Email address</label>
     <input
       type="email"
-      class="form-control"
-      id="email"
       name="email"
       aria-describedby="emailHelp"
       placeholder="Enter email" />
-    <small id="emailHelp" class="form-text text-muted">
-      We'll never share your email with anyone else.
-    </small>
+    <small>We'll never share your email with anyone else.</small>
   </div>
 
-  <div class="form-group">
+  <div>
     <label for="subject">Subject</label>
-    <input
-      type="text"
-      class="form-control"
-      id="subject"
-      name="subject"
-      placeholder="Enter subject" />
+    <input type="text" name="subject" placeholder="Enter subject" />
   </div>
 
-  <div class="form-group">
+  <div>
     <label for="message">Message</label>
-    <textarea
-      class="form-control"
-      id="message"
-      name="message"
-      rows="3"
-      placeholder="Enter your message here" />
+    <textarea name="message" rows="3" placeholder="Enter your message here" />
   </div>
 
   <button type="submit" id="submit" name="submit">Submit</button>
