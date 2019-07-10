@@ -34,9 +34,15 @@
       height: 45vh;
     }
   }
+
+  @media only screen and (max-width: 721px) {
+    /* section {
+      padding-top: 15rem;
+    } */
+  }
 </style>
 
-<h1>Services</h1>
+<h1 id="services">Services</h1>
 
 <section>
   <div>

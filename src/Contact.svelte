@@ -1,5 +1,5 @@
 <style>
-  #form {
+  .form {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -38,7 +38,7 @@
   } */
 </style>
 
-<form id="form" method="post" action="">
+<form id="contact" class="form" method="post" action="">
 
   <div class="form-group">
     <label for="email">Email address</label>

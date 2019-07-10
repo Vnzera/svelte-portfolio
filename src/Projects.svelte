@@ -36,7 +36,7 @@
   }
 </style>
 
-<section>
+<section id="projects">
   <div class="blue">
     <h1>Online Jewelry Store</h1>
     <p>Made with Svelte.js, Node and MongoDB</p>

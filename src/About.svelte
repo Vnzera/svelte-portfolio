@@ -31,7 +31,7 @@
   }
 </style>
 
-<section>
+<section id="about">
   <div>
     <img
       alt="me"

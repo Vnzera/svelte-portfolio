@@ -17,11 +17,7 @@
 </style>
 
 <Header />
-<hr />
 <About />
-<hr />
 <Services />
-<hr />
 <Projects />
-<hr />
 <Contact />

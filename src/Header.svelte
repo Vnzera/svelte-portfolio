@@ -121,7 +121,7 @@
   }
 </style>
 
-<header>
+<header id="header">
   <i class="fas fa-code" />
   <nav>
     <a id="open" on:click={openNav}>Menu</a>
