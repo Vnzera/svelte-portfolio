@@ -30,13 +30,7 @@
   }
 </style>
 
-<form
-  data-netlify="true"
-  name="contact"
-  id="contact"
-  class="form"
-  method="post"
-  action="">
+<form data-netlify="true" name="contact" id="contact" class="form">
 
   <div>
     <label for="email">Email address</label>
