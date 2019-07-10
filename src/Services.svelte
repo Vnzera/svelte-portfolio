@@ -42,27 +42,25 @@
   }
 </style>
 
-<h1 id="services">Services</h1>
-
-<section>
+<section id="services">
   <div>
     <i class="devicon-html5-plain-wordmark" />
     <i class="devicon-css3-plain-wordmark colored" />
-    <p>Change your website's layout or styling</p>
+    <p>Fast and responsive websites</p>
   </div>
   <div>
     <i class="devicon-react-original-wordmark" />
     <img alt="svelte-logo" src="favicon.png" />
-    <p>Easily add dynamic behavior to your web application</p>
+    <p>Dynamic web apps</p>
   </div>
   <div>
     <i class="devicon-nodejs-plain-wordmark" />
     <i class="devicon-mongodb-plain" />
-    <p>Integrate your website with an API</p>
+    <p>Use an API or build one</p>
   </div>
 
   <div>
     <i class="devicon-heroku-original-wordmark" />
-    <p>Host your web app securely on Heroku's platform</p>
+    <p>Host your web app on Heroku or Netlify</p>
   </div>
 </section>
