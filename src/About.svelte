@@ -4,7 +4,7 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     height: 50vh;
-    margin: 10vh 5vh 0vh 5vh;
+    margin: 10vh 5vh 10vh 5vh;
   }
 
   div {
@@ -19,8 +19,7 @@
   }
 
   i:hover {
-    font-size: 1.8rem;
-    margin: 0.1rem;
+    color: grey;
   }
 
   img {
@@ -35,7 +34,7 @@
   <div>
     <img
       alt="me"
-      src="https://avatars0.githubusercontent.com/u/16928531?s=460&v=4" />
+      src="https://images.unsplash.com/photo-1559581958-df379578606a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=647&q=80" />
     <div>
       <a href="https://www.instagram.com/zdrifted/">
         <i class="fab fa-instagram" />
@@ -53,7 +52,8 @@
   </div>
 
   <div>
-    <h1>Full Stack JavaScript</h1>
-    <p>Svelte.js, React.js, Node.js and MongoDB</p>
+    <h1>Hi, I'm Luis Diaz</h1>
+    <p>I work with Svelte.js, React.js, Node.js, Postgres and MongoDB</p>
+    <p>This website is under construction</p>
   </div>
 </section>

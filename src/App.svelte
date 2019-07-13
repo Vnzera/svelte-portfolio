@@ -2,7 +2,6 @@
   import Header from "./Header.svelte";
   import About from "./About.svelte";
   import Projects from "./Projects.svelte";
-  import Services from "./Services.svelte";
   import Contact from "./Contact.svelte";
 </script>
 
@@ -18,6 +17,5 @@
 
 <Header />
 <About />
-<Services />
 <Projects />
 <Contact />

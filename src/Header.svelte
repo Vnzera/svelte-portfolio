@@ -40,8 +40,6 @@
   a:active {
     box-shadow: 2px 2px 6px rgb(21, 150, 122);
     border-radius: 5px;
-    margin: 5px;
-    padding: 1.5px;
   }
 
   /* icon styles */
@@ -124,13 +122,10 @@
 <header id="header">
   <i class="fas fa-code" />
   <nav>
-    <a id="open" on:click={openNav}>Menu</a>
+    <a href="#menu" id="open" on:click={openNav}>Menu</a>
     <ul>
       <li>
-        <a href="#about">Home</a>
-      </li>
-      <li>
-        <a href="#Services">Services</a>
+        <a href="#header">Home</a>
       </li>
       <li>
         <a href="#projects">Projects</a>
@@ -151,8 +146,7 @@
 <div id="modal">
   <button id="close" on:click={closeNav}>X</button>
   <div id="mobile">
-    <a href="#about" on:click={closeNav}>Home</a>
-    <a href="#services" on:click={closeNav}>Services</a>
+    <a href="#header" on:click={closeNav}>Home</a>
     <a href="#projects" on:click={closeNav}>Projects</a>
     <a href="#contact" on:click={closeNav}>Contact</a>
   </div>

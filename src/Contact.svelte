@@ -30,7 +30,7 @@
   }
 </style>
 
-<form data-netlify="true" name="contact" id="contact" class="form">
+<form netlify name="contact" id="contact" class="form">
 
   <div>
     <label for="email">Email address</label>
@@ -52,6 +52,6 @@
     <textarea name="message" rows="3" placeholder="Enter your message here" />
   </div>
 
-  <button type="submit" id="submit" name="submit">Submit</button>
+  <button type="submit" id="submit">Submit</button>
 
 </form>
