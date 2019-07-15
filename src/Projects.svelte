@@ -6,11 +6,17 @@
     justify-content: space-evenly;
   }
 
+  @media only screen and (max-width: 800px) {
+    section {
+      margin-top: 10rem;
+    }
+  }
+
   div {
     margin: 5px;
     padding: 1rem;
-    height: 20rem;
-    width: 20rem;
+    height: 15rem;
+    width: 15rem;
     color: white;
     text-align: center;
   }

@@ -14,19 +14,20 @@
   i {
     font-size: 1.5rem;
     margin: 0.5rem;
-    color: #4ab75e;
-    transition: all 1ms ease-in-out;
+    color: rgb(18, 114, 93);
+    transition: all 5ms ease-in-out;
   }
 
   i:hover {
-    color: grey;
+    box-shadow: 2px 2px 6px rgb(21, 150, 122);
+    border-radius: 13px;
   }
 
   img {
     border: 1.5px solid black;
     border-radius: 50%;
-    height: 15rem;
-    width: 15rem;
+    height: 17rem;
+    width: 17rem;
   }
 </style>
 
