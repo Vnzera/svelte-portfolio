@@ -6,7 +6,7 @@
     background: #076cb7;
     color: white;
     padding: 0.625rem;
-    margin: 5rem auto;
+    margin: 5rem auto 10rem auto;
     border-radius: 1.6875rem;
     border: 2px solid #383232;
     text-align: center;
