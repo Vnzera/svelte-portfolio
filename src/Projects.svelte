@@ -44,21 +44,23 @@
 
 <section id="projects">
   <div class="blue">
-    <h1>Online Jewelry Store</h1>
-    <p>Made with Svelte.js, Node and MongoDB</p>
-    <a href="#">Live Link</a>
+    <h1>Blog Website</h1>
+    <p>Made with GatsbyJS</p>
+    <a target="_blank" href="https://beginnerbase.com">Link</a>
   </div>
 
   <div class="red">
-    <h1>Random Definition Generator</h1>
-    <p>Made with React, MaterialUI and the Wordnik API</p>
-    <a href="https://random-word-definition.herokuapp.com/">Heroku Link</a>
+    <h1>News Fetcher</h1>
+    <p>Made with React, styled-components and a News API</p>
+    <a target="_blank" href="https://fetch-news.netlify.com">Link</a>
   </div>
 
   <div class="yellow">
     <h1>Simon Game</h1>
     <p>Made with vanilla JavaScript and plain CSS</p>
-    <a href="https://codepen.io/zdrifted/pen/qXwyYQ?editors=0010">
+    <a
+      target="_blank"
+      href="https://codepen.io/zdrifted/pen/qXwyYQ?editors=0010">
       Codepen Link
     </a>
   </div>
@@ -66,6 +68,8 @@
   <div class="purple">
     <h1>CSS Grid Portfolio</h1>
     <p>Made with CSS Grid and Firebase</p>
-    <a href="https://zdrifted.github.io/grid-portfolio/ ">Github Link</a>
+    <a target="_blank" href="https://zdrifted.github.io/grid-portfolio/ ">
+      Github Link
+    </a>
   </div>
 </section>
