@@ -37,16 +37,16 @@
       alt="me"
       src="https://images.unsplash.com/photo-1559581958-df379578606a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=647&q=80" />
     <div>
-      <a href="https://www.instagram.com/zdrifted/">
+      <a target="_blank" href="https://www.instagram.com/zdrifted/">
         <i class="fab fa-instagram" />
       </a>
-      <a href="https://twitter.com/zdrifted">
+      <a target="_blank" href="https://twitter.com/zdrifted">
         <i class="fab fa-twitter-square" />
       </a>
-      <a href="https://www.linkedin.com/in/zdrifted/">
+      <a target="_blank" href="https://www.linkedin.com/in/zdrifted/">
         <i class="fab fa-linkedin" />
       </a>
-      <a href="https://www.github.com/zdrifted">
+      <a target="_blank" href="https://www.github.com/zdrifted">
         <i class="fab fa-github-square" />
       </a>
     </div>
