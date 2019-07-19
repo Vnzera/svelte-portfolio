@@ -26,7 +26,7 @@
   img {
     border: 1.5px solid black;
     border-radius: 50%;
-    height: 17rem;
+    height: 20rem;
     width: 17rem;
   }
 </style>
