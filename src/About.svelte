@@ -4,7 +4,7 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     height: 50vh;
-    margin: 10vh 5vh 10vh 5vh;
+    margin: 10vh 5vh 15vh 5vh;
   }
 
   div {
@@ -53,7 +53,7 @@
   </div>
 
   <div>
-    <h1>Hi, I'm Luis Diaz</h1>
+    <h1>Hi, I'm Luis</h1>
     <p>I work with Svelte.js, React.js, Node.js, Postgres and MongoDB</p>
     <p>This website is under construction</p>
   </div>

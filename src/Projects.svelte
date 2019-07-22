@@ -6,7 +6,7 @@
     justify-content: space-evenly;
   }
 
-  @media only screen and (max-width: 800px) {
+  @media only screen and (max-width: 850px) {
     section {
       margin-top: 10rem;
     }
