@@ -27,13 +27,13 @@
 
   li {
     display: inline-block;
-    padding: 0px 10px;
   }
 
   a,
   i {
     text-decoration: none;
     color: rgb(18, 114, 93);
+    padding: 0.5rem;
   }
 
   a:hover,

@@ -4,7 +4,8 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     height: 50vh;
-    margin: 10vh 5vh 15vh 5vh;
+    margin: 0 auto 5rem auto;
+    padding: 5rem;
   }
 
   div {
@@ -14,6 +15,7 @@
   i {
     font-size: 1.5rem;
     margin: 0.5rem;
+    padding: 0.5rem;
     color: rgb(18, 114, 93);
     transition: all 5ms ease-in-out;
   }

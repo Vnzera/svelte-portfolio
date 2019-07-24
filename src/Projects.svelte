@@ -2,14 +2,9 @@
   section {
     display: flex;
     flex-wrap: wrap;
-    margin-top: 10px;
+    margin: 5rem;
+    padding: 5rem;
     justify-content: space-evenly;
-  }
-
-  @media only screen and (max-width: 850px) {
-    section {
-      margin-top: 10rem;
-    }
   }
 
   div {
