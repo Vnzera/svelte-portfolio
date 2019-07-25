@@ -26,7 +26,7 @@
   i {
     font-size: 1.5rem;
     margin: 0.5rem;
-    padding: 0.5rem;
+    padding: 0.3rem;
     color: rgb(18, 114, 93);
     transition: all 5ms ease-in-out;
   }

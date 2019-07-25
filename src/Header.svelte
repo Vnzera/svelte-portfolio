@@ -33,7 +33,7 @@
   i {
     text-decoration: none;
     color: rgb(18, 114, 93);
-    padding: 0.5rem;
+    padding: 0.3rem;
   }
 
   a:hover,
