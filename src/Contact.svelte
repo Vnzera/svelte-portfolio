@@ -43,7 +43,7 @@
 
 <section>
 
-  <form netlify name="contact" id="contact" class="form">
+  <form netlify name="contact" method="POST" id="contact" class="form">
 
     <div>
       <label for="email">Email address</label>
