@@ -8,12 +8,14 @@
   }
 
   div {
-    margin: 5px;
+    margin: 1rem;
     padding: 1rem;
     height: 15rem;
     width: 15rem;
     color: white;
     text-align: center;
+    min-width: 10rem;
+    min-height: 10rem;
   }
 
   div a {

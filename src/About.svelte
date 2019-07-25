@@ -10,6 +10,13 @@
 
   div {
     text-align: center;
+    padding: 0 0 1rem 0.5rem;
+  }
+
+  .bio {
+    text-shadow: 0.2px 0.2px 0.2px grey;
+    padding: 0 auto 10rem auto;
+    margin: 1rem;
   }
 
   i {
@@ -27,9 +34,11 @@
 
   img {
     border: 1.5px solid black;
-    border-radius: 50%;
     height: 20rem;
     width: 17rem;
+    box-shadow: 2px 2px 6px rgb(21, 150, 122);
+    border-radius: 13px;
+    padding: 0.2rem;
   }
 </style>
 
@@ -54,9 +63,11 @@
     </div>
   </div>
 
-  <div>
+  <div class="bio">
     <h1>Hi, I'm Luis</h1>
-    <p>I work with Svelte.js, React.js, Node.js, Postgres and MongoDB</p>
-    <p>This website is under construction</p>
+    <p>
+      My favorite tech includes Svelte.js, React.js, Node.js and Postgres
+      <br />
+    </p>
   </div>
 </section>
