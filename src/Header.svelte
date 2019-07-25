@@ -75,6 +75,12 @@
     padding: 0.3rem;
     cursor: pointer;
   }
+
+  #open:hover {
+    background-color: #003864;
+    color: white;
+  }
+
   #mobile {
     display: flex;
     height: 100%;
