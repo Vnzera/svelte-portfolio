@@ -2,57 +2,56 @@
   section {
     display: flex;
     flex-wrap: wrap;
-    margin: 5rem;
-    padding: 5rem;
+    margin: 1rem auto 1rem auto;
+    padding: 10rem;
     justify-content: space-evenly;
   }
 
   div {
-    margin: 1rem;
-    padding: 1rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
     height: 15rem;
     width: 15rem;
     color: white;
     text-align: center;
-    min-width: 10rem;
-    min-height: 10rem;
+    min-width: 15rem;
+    min-height: 15rem;
+    box-shadow: 2px 2px 6px rgb(0, 0, 0);
+    border-radius: 1rem;
   }
 
   div a {
     color: rgb(231, 221, 221);
+    text-decoration: none;
+    box-shadow: 2px 2px 6px rgb(0, 0, 0);
+    border-radius: 1rem;
+    padding: 0.5rem;
   }
 
-  .red {
-    background-color: #b82601;
-  }
-
-  .blue {
+  .primary {
     background-color: #062f4f;
   }
 
-  .yellow {
-    background: #d9b310;
-  }
-
-  .purple {
-    background: #813772;
+  .alternate {
+    background-color: #1e2122;
   }
 </style>
 
 <section id="projects">
-  <div class="blue">
+
+  <div class="primary">
     <h1>Blog Website</h1>
     <p>Made with GatsbyJS</p>
     <a target="_blank" href="https://beginnerbase.com">Link</a>
   </div>
 
-  <div class="red">
+  <div class="alternate">
     <h1>News Fetcher</h1>
     <p>Made with React, styled-components and a News API</p>
     <a target="_blank" href="https://fetch-news.netlify.com">Link</a>
   </div>
 
-  <div class="yellow">
+  <div class="primary">
     <h1>Simon Game</h1>
     <p>Made with vanilla JavaScript and plain CSS</p>
     <a
@@ -62,7 +61,7 @@
     </a>
   </div>
 
-  <div class="purple">
+  <div class="alternate">
     <h1>CSS Grid Portfolio</h1>
     <p>Made with CSS Grid and Firebase</p>
     <a target="_blank" href="https://zdrifted.github.io/grid-portfolio/ ">

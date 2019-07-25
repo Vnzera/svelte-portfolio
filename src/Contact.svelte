@@ -1,4 +1,9 @@
 <style>
+  section {
+    padding: 1rem;
+    margin: 1rem;
+  }
+
   .form {
     display: flex;
     flex-direction: column;
@@ -30,28 +35,32 @@
   }
 </style>
 
-<form netlify name="contact" id="contact" class="form">
+<section>
 
-  <div>
-    <label for="email">Email address</label>
-    <input
-      type="email"
-      name="email"
-      aria-describedby="emailHelp"
-      placeholder="Enter email" />
-    <small>We'll never share your email with anyone else.</small>
-  </div>
+  <form netlify name="contact" id="contact" class="form">
 
-  <div>
-    <label for="subject">Subject</label>
-    <input type="text" name="subject" placeholder="Enter subject" />
-  </div>
+    <div>
+      <label for="email">Email address</label>
+      <input
+        type="email"
+        name="email"
+        aria-describedby="emailHelp"
+        placeholder="Enter email" />
+      <small>We'll never share your email with anyone else.</small>
+    </div>
 
-  <div>
-    <label for="message">Message</label>
-    <textarea name="message" rows="3" placeholder="Enter your message here" />
-  </div>
+    <div>
+      <label for="subject">Subject</label>
+      <input type="text" name="subject" placeholder="Enter subject" />
+    </div>
 
-  <button type="submit" id="submit">Submit</button>
+    <div>
+      <label for="message">Message</label>
+      <textarea name="message" rows="3" placeholder="Enter your message here" />
+    </div>
 
-</form>
+    <button type="submit" id="submit">Submit</button>
+
+  </form>
+
+</section>
