@@ -7,7 +7,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background: #076cb7;
+    background: #1e2122;
     color: white;
     padding: 0.625rem;
     margin: 5rem auto 10rem auto;
@@ -25,12 +25,19 @@
   }
 
   #submit {
-    background-color: #025aa5;
+    background-color: #1e2122;
     border-color: #01549b;
     color: white;
     height: 2.5rem;
     width: 4.75rem;
     margin: 0 auto;
+    box-shadow: 2px 2px 6px rgb(0, 0, 0);
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+  }
+
+  #submit:hover {
+    background-color: black;
   }
 </style>
 

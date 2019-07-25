@@ -8,8 +8,8 @@
   }
 
   div {
-    margin: 0.5rem;
-    padding: 0.5rem;
+    margin: 1rem;
+    padding: 1rem;
     height: 15rem;
     width: 15rem;
     color: white;
@@ -31,6 +31,10 @@
     padding: 0.5rem;
     width: 5rem;
     margin: 0 auto;
+  }
+
+  div a:hover {
+    background-color: black;
   }
 
   .primary {

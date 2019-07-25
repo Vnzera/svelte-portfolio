@@ -32,13 +32,13 @@
   a,
   i {
     text-decoration: none;
-    color: rgb(18, 114, 93);
+    color: #003864;
     padding: 0.3rem;
   }
 
   a:hover,
   a:active {
-    box-shadow: 2px 2px 6px rgb(21, 150, 122);
+    box-shadow: 2px 2px 6px #003864;
     border-radius: 5px;
   }
 
@@ -69,10 +69,10 @@
   /* styles for mobile nav */
 
   #open {
-    box-shadow: 2px 2px 6px rgb(21, 150, 122);
+    box-shadow: 2px 2px 6px #003864;
     border-radius: 5px;
-    margin: 5px;
-    padding: 1.5px;
+    margin: 0.3rem;
+    padding: 0.3rem;
     cursor: pointer;
   }
   #mobile {
@@ -84,8 +84,9 @@
   }
 
   #mobile a {
-    padding: 15px;
-    font-size: 36px;
+    padding: 0.4rem;
+    margin: 1rem;
+    font-size: 2.3rem;
     display: block;
     transition: all 0.3s ease 0s;
   }
@@ -98,11 +99,11 @@
     font-size: 40px;
     border-radius: 40px;
     background-color: white;
-    color: rgb(18, 114, 93);
+    color: #003864;
   }
 
   #close:hover {
-    box-shadow: 2px 2px 6px rgb(21, 150, 122);
+    box-shadow: 2px 2px 6px #003864;
   }
 
   /* media quieries */

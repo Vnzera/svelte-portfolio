@@ -27,12 +27,12 @@
     font-size: 1.5rem;
     margin: 0.5rem;
     padding: 0.3rem;
-    color: rgb(18, 114, 93);
+    color: #003864;
     transition: all 5ms ease-in-out;
   }
 
   i:hover {
-    box-shadow: 2px 2px 6px rgb(21, 150, 122);
+    box-shadow: 2px 2px 6px 003864;
     border-radius: 13px;
   }
 
@@ -40,7 +40,7 @@
     border: 1.5px solid black;
     height: 20rem;
     width: 17rem;
-    box-shadow: 2px 2px 6px rgb(21, 150, 122);
+    box-shadow: 2px 2px 6px #003864;
     border-radius: 13px;
     padding: 0.2rem;
   }
