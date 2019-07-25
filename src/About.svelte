@@ -32,7 +32,7 @@
   }
 
   i:hover {
-    box-shadow: 2px 2px 6px 003864;
+    box-shadow: 2px 2px 6px #003864;
     border-radius: 13px;
   }
 
