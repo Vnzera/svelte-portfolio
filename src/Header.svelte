@@ -52,7 +52,6 @@
   a:active {
     box-shadow: 2px 2px 6px #003864;
     border-radius: 5px;
-    color: #1196ff;
     background-color: white;
   }
 
@@ -75,7 +74,7 @@
     z-index: 1;
     left: 0;
     top: 0;
-    background-color: white;
+    background-color: #1e2122;
     overflow-x: hidden;
     transition: all 0.5s ease 0s;
   }
@@ -85,14 +84,14 @@
   #open {
     box-shadow: 2px 2px 6px #003864;
     border-radius: 5px;
+    border: solid 0.01px white;
     padding: 0.3rem;
     cursor: pointer;
-    background-color: white;
+    background-color: #1e2122;
   }
 
   #open:hover {
-    background-color: #003864;
-    color: white;
+    background-color: white;
   }
 
   #mobile {
@@ -117,13 +116,15 @@
     top: 20px;
     right: 45px;
     font-size: 40px;
-    border-radius: 40px;
-    background-color: white;
-    color: #003864;
+    border-radius: 10px;
+    background-color: #1e2122;
+    color: #1196ff;
+    transition: all 0.3s ease 0s;
   }
 
   #close:hover {
     box-shadow: 2px 2px 6px #003864;
+    background-color: white;
   }
 
   /* media quieries */
