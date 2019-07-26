@@ -42,9 +42,9 @@
   }
 </style>
 
-<section>
+<section id="contact">
 
-  <form netlify name="contact" method="POST" id="contact" class="form">
+  <form data-netlify="true" name="contact" method="POST" class="form">
 
     <div>
       <label for="email">Email address</label>
