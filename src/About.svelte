@@ -21,6 +21,7 @@
     border-radius: 13px;
     width: 18rem;
     height: 10rem;
+    min-width: 15rem;
   }
 
   i {

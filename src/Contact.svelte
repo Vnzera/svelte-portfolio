@@ -1,6 +1,5 @@
 <style>
   section {
-    padding: 5rem 5rem 1rem 5rem;
     margin: 1rem;
   }
 
