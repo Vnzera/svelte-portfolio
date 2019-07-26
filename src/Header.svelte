@@ -10,15 +10,14 @@
 
 <style>
   header {
-    padding: 0.5rem auto 1rem auto;
-    margin: 1rem auto 5rem 1rem;
+    padding: 0rem 1rem;
+    margin: 0;
     position: fixed;
-    width: 92%;
-    z-index: 2s;
+    width: 100%;
+    height: 4rem;
+    z-index: 1;
     background: rgba(240, 240, 240 0.7);
     box-shadow: 2px 2px 6px #003864;
-    border-radius: 13px;
-    padding: 0.5rem;
     background-color: #1e2122;
   }
 
@@ -26,7 +25,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-right: 5rem;
+    margin-right: 6rem;
   }
 
   ul {
@@ -65,8 +64,7 @@
   }
 
   .fa-code {
-    margin-right: auto;
-    margin-left: 1rem;
+    margin: 1rem auto 1rem 0rem;
   }
 
   /* overlay for modal on mobile */
@@ -90,6 +88,7 @@
     margin: 0.3rem;
     padding: 0.3rem;
     cursor: pointer;
+    background-color: white;
   }
 
   #open:hover {
