@@ -1,6 +1,7 @@
 <style>
   section {
     margin: 1rem;
+    padding-bottom: 5rem;
   }
 
   .form {
