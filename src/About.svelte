@@ -5,7 +5,7 @@
     justify-content: space-evenly;
     height: 30rem;
     margin: 0 auto 1rem auto;
-    padding: 5rem;
+    padding: 10rem 5rem 5rem 5rem;
   }
 
   div {
