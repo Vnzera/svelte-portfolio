@@ -5,7 +5,7 @@
     justify-content: space-evenly;
     height: 30rem;
     margin: 0 auto 1rem auto;
-    padding: 10rem 5rem 5rem 5rem;
+    padding: 15rem 5rem 10rem 5rem;
   }
 
   div {
@@ -15,8 +15,8 @@
 
   .bio {
     text-shadow: 0.2px 0.2px 0.2px grey;
-    padding: 0 auto 5rem auto;
-    margin: 1rem auto 1rem auto;
+    padding: 0rem 1rem 1rem 1rem;
+    margin: 5rem;
     box-shadow: 2px 2px 6px rgb(6, 6, 6);
     border-radius: 13px;
     width: 18rem;

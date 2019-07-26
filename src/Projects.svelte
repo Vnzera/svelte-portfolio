@@ -3,7 +3,7 @@
     display: flex;
     flex-wrap: wrap;
     margin: 1rem auto 0.5rem auto;
-    padding: 10rem;
+    padding: 15rem;
     justify-content: space-evenly;
   }
 

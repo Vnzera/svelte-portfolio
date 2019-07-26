@@ -85,7 +85,6 @@
   #open {
     box-shadow: 2px 2px 6px #003864;
     border-radius: 5px;
-    margin: 0.3rem;
     padding: 0.3rem;
     cursor: pointer;
     background-color: white;

@@ -1,6 +1,6 @@
 <style>
   section {
-    padding: 0 auto 0.5rem auto;
+    padding: 0.5rem;
   }
 
   .form {
