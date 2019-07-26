@@ -46,6 +46,9 @@
     text-decoration: none;
     color: #1196ff;
     padding: 0.3rem;
+    box-shadow: 2px 2px 6px #003864;
+    border-radius: 5px;
+    border: solid 0.01px #3e4f85;
   }
 
   a:hover,
@@ -84,7 +87,7 @@
   #open {
     box-shadow: 2px 2px 6px #003864;
     border-radius: 5px;
-    border: solid 0.01px white;
+    border: solid 0.01px #3e4f85;
     padding: 0.3rem;
     cursor: pointer;
     background-color: #1e2122;
@@ -103,7 +106,7 @@
   }
 
   #mobile a {
-    padding: 0.4rem;
+    padding: 0.8rem;
     margin: 1rem;
     font-size: 2.3rem;
     display: block;
@@ -155,9 +158,6 @@
         </li>
         <li>
           <a href="#contact">Contact</a>
-        </li>
-        <li>
-          <i class="fas fa-arrow-alt-circle-left" />
         </li>
       </ul>
     </nav>

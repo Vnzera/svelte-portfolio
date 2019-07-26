@@ -4,6 +4,13 @@
     padding-bottom: 1rem;
   }
 
+  @media only screen and (max-width: 800px) {
+    section {
+      margin: 0;
+      padding-bottom: 0;
+    }
+  }
+
   .form {
     display: flex;
     flex-direction: column;
@@ -25,16 +32,22 @@
     padding: 9px 0;
   }
 
+  label {
+    color: #1196ff;
+    padding: 0.3rem;
+  }
+
   #submit {
     background-color: #1e2122;
     border-color: #01549b;
-    color: white;
+    color: #1196ff;
     height: 2.5rem;
     width: 4.75rem;
     margin: 0 auto;
-    box-shadow: 2px 2px 6px rgb(0, 0, 0);
-    border-radius: 0.5rem;
     padding: 0.5rem;
+    box-shadow: 2px 2px 6px #003864;
+    border-radius: 5px;
+    border: solid 0.01px #3e4f85;
   }
 
   #submit:hover {
