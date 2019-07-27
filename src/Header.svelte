@@ -25,7 +25,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-right: 6rem;
+    margin-right: 4rem;
   }
 
   ul {
@@ -89,6 +89,7 @@
     border-radius: 5px;
     border: solid 0.01px #3e4f85;
     padding: 0.3rem;
+    margin: 0.5rem;
     cursor: pointer;
     background-color: #1e2122;
   }
