@@ -7,7 +7,7 @@
   @media only screen and (max-width: 800px) {
     section {
       margin: 0;
-      padding-bottom: 0;
+      padding-bottom: 0.3rem;
     }
   }
 

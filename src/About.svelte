@@ -29,7 +29,7 @@
     margin: 0.5rem;
     padding: 0.3rem;
     color: #003864;
-    transition: all 5ms ease-in-out;
+    transition: all 0.3s ease 0s;
   }
 
   i:hover {

@@ -121,12 +121,13 @@
     font-size: 40px;
     border-radius: 10px;
     background-color: #1e2122;
+    box-shadow: 2px 2px 6px #003864;
     color: #1196ff;
+    border-color: #3e4f85;
     transition: all 0.3s ease 0s;
   }
 
   #close:hover {
-    box-shadow: 2px 2px 6px #003864;
     background-color: white;
   }
 
