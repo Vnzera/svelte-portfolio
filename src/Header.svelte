@@ -10,7 +10,6 @@
 
 <style>
   header {
-    padding: 0rem 1rem;
     margin: 0;
     position: fixed;
     width: 100%;
@@ -25,7 +24,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-right: 4rem;
+    margin-right: 1rem;
   }
 
   ul {
@@ -66,7 +65,7 @@
   }
 
   .fa-code {
-    margin: 1rem auto 1rem 0rem;
+    margin: 1rem auto 1rem 1rem;
   }
 
   /* overlay for modal on mobile */
