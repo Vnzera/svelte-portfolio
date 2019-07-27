@@ -9,13 +9,13 @@
   }
 
   div {
+    vertical-align: middle;
     text-align: center;
-    padding: 1rem;
   }
 
   .bio {
     text-shadow: 0.2px 0.2px 0.2px grey;
-    padding: 0rem 1rem 1rem 1rem;
+    padding: 1rem;
     margin: 5rem;
     box-shadow: 2px 2px 6px rgb(6, 6, 6);
     border-radius: 13px;
@@ -70,9 +70,6 @@
 
   <div class="bio">
     <h1>Hi, I'm Luis</h1>
-    <p>
-      My favorite tech includes Svelte.js, React.js, Node.js and Postgres
-      <br />
-    </p>
+    <p>My favorite tech includes Svelte.js, React.js, Node.js and Postgres</p>
   </div>
 </section>

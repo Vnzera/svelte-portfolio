@@ -48,10 +48,11 @@
     box-shadow: 2px 2px 6px #003864;
     border-radius: 5px;
     border: solid 0.01px #3e4f85;
+    transition: all 0.3s ease 0s;
   }
 
   #submit:hover {
-    background-color: black;
+    background-color: white;
   }
 </style>
 
