@@ -1,14 +1,7 @@
 <style>
   section {
-    margin: 1rem;
-    padding-bottom: 1rem;
-  }
-
-  @media only screen and (max-width: 800px) {
-    section {
-      margin: 0;
-      padding-bottom: 0.3rem;
-    }
+    padding-top: 1rem;
+    padding-bottom: 0;
   }
 
   .form {
