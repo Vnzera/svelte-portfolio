@@ -60,7 +60,7 @@
         name="email"
         aria-describedby="emailHelp"
         placeholder="Enter email" />
-      <small>We'll never share your email with anyone else.</small>
+      <small>I'll never share your email with anyone else.</small>
     </div>
 
     <div>
