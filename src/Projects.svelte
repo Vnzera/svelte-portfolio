@@ -3,7 +3,6 @@
     display: flex;
     flex-wrap: wrap;
     margin: 1rem auto 0.5rem auto;
-    padding: 10rem;
     justify-content: space-evenly;
   }
 
@@ -18,27 +17,31 @@
     min-height: 15rem;
     box-shadow: 2px 2px 6px rgb(0, 0, 0);
     border-radius: 1rem;
+    border: solid 0.01px #3e4f85;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
   }
 
   div a {
-    color: rgb(231, 221, 221);
+    background-color: #1e2122;
+    color: #1196ff;
     text-decoration: none;
-    box-shadow: 2px 2px 6px rgb(0, 0, 0);
-    border-radius: 0.5rem;
-    padding: 0.5rem;
     width: 5rem;
     margin: 0 auto;
+    box-shadow: 2px 2px 6px #003864;
+    border-radius: 5px;
+    border: solid 0.01px #3e4f85;
+    padding: 0.3rem;
+    cursor: pointer;
   }
 
   div a:hover {
-    background-color: black;
+    background-color: white;
   }
 
   .primary {
-    background-color: #062f4f;
+    background-color: black;
   }
 
   .alternate {

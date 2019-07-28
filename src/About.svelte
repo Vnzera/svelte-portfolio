@@ -5,7 +5,19 @@
     justify-content: space-evenly;
     height: 30rem;
     margin: 0 auto 1rem auto;
-    padding: 15rem 5rem 10rem 5rem;
+    padding: 10rem 5rem 16rem 5rem;
+  }
+
+  @media only screen and (min-width: 800px) {
+    section {
+      padding-top: 15rem;
+    }
+  }
+
+  @media only screen and (min-width: 934px) {
+    section {
+      padding-bottom: 9.4rem;
+    }
   }
 
   div {
@@ -22,6 +34,12 @@
     width: 18rem;
     height: 10rem;
     min-width: 15rem;
+  }
+
+  @media only screen and (max-width: 842px) {
+    .bio {
+      margin: 2rem;
+    }
   }
 
   i {
