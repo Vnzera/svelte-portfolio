@@ -16,7 +16,7 @@
 
   @media only screen and (min-width: 934px) {
     section {
-      padding-bottom: 9.4rem;
+      padding-bottom: 1rem;
     }
   }
 
@@ -34,12 +34,6 @@
     width: 18rem;
     height: 10rem;
     min-width: 15rem;
-  }
-
-  @media only screen and (max-width: 842px) {
-    .bio {
-      margin: 2rem;
-    }
   }
 
   i {
