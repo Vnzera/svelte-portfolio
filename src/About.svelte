@@ -5,7 +5,7 @@
     justify-content: space-evenly;
     height: 30rem;
     margin: 0 auto 1rem auto;
-    padding: 10rem 5rem 16rem 5rem;
+    padding: 8rem 5rem 16rem 5rem;
   }
 
   @media only screen and (min-width: 800px) {
