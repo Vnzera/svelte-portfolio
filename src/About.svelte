@@ -37,7 +37,7 @@
   }
 
   i {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     margin: 0.5rem;
     padding: 0.3rem;
     color: #003864;

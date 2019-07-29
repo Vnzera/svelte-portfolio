@@ -132,9 +132,17 @@
   }
 
   /* media quieries */
-  @media only screen and (min-width: 800px) {
+  @media only screen and (min-width: 801px) {
     #open {
       display: none;
+    }
+
+    ul {
+      margin-right: 3rem;
+    }
+
+    .fa-code {
+      margin-left: 3rem;
     }
   }
 
