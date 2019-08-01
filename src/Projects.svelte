@@ -2,7 +2,7 @@
   section {
     display: flex;
     flex-wrap: wrap;
-    padding: 1rem;
+    padding: 5rem;
     justify-content: space-evenly;
   }
 
