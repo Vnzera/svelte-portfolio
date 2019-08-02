@@ -68,8 +68,8 @@
     <p>Made with vanilla JavaScript and plain CSS</p>
     <a
       target="_blank"
-      href="https://codepen.io/zdrifted/pen/qXwyYQ?editors=0010">
-      Codepen
+      href="https://simon-gamer.netlify.com">
+      Link
     </a>
   </div>
 
