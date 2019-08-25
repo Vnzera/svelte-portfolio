@@ -53,7 +53,7 @@
 
   <div class="primary">
     <h1>Blog Website</h1>
-    <p>Made with GatsbyJS</p>
+    <p>Just my thoughts</p>
     <a target="_blank" href="https://beginnerbase.com">Link</a>
   </div>
 
@@ -66,11 +66,7 @@
   <div class="primary">
     <h1>Simon Game</h1>
     <p>Made with vanilla JavaScript and plain CSS</p>
-    <a
-      target="_blank"
-      href="https://simon-gamer.netlify.com">
-      Link
-    </a>
+    <a target="_blank" href="https://simon-gamer.netlify.com">Link</a>
   </div>
 
   <div class="alternate">
