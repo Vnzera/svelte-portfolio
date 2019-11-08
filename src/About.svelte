@@ -59,6 +59,11 @@
   }
 </style>
 
+<!-- https://images.unsplash.com/photo-1568621373774-ca41cb04043e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80 
+
+https://images.unsplash.com/photo-1559581958-df379578606a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=647&q=80
+
+-->
 <section id="about">
   <div>
     <img
@@ -82,6 +87,10 @@
 
   <div class="bio">
     <h1>Hi, I'm Luis</h1>
-    <p>My favorite tech includes Svelte.js, React.js, Node.js and Postgres</p>
+    <p>
+      I am a freelance web developer.
+      <br />
+      Highly interested in contract to hire positions.
+    </p>
   </div>
 </section>
