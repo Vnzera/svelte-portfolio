@@ -4,6 +4,7 @@
     flex-wrap: wrap;
     padding: 5rem;
     justify-content: space-evenly;
+    background-color: #0b0b0b;
   }
 
   div {
