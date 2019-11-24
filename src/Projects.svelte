@@ -5,6 +5,8 @@
     padding: 5rem;
     justify-content: space-evenly;
     background-color: #0b0b0b;
+    border: solid 0.01px #3e4f85;
+    box-shadow: 2px 2px 6px rgb(0, 0, 0);
   }
 
   div {

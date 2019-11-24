@@ -56,12 +56,22 @@
     box-shadow: 2px 2px 6px #003864;
     border-radius: 13px;
     padding: 0.2rem;
+    object-fit: cover;
   }
 </style>
 
-<!-- https://images.unsplash.com/photo-1568621373774-ca41cb04043e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80 
+<!-- 
+Motorcycle guy with red wall
+https://images.unsplash.com/photo-1568621373774-ca41cb04043e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80 
 
+Hoodie guy in alley
 https://images.unsplash.com/photo-1559581958-df379578606a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=647&q=80
+
+Beach guy with hoodie
+https://images.unsplash.com/photo-1542545319-2807785c15b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+
+Monitor and house plant
+https://images.unsplash.com/photo-1543336472-fcf478c443db?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80
 
 -->
 <section id="about">
