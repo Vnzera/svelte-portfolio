@@ -61,6 +61,10 @@
 </style>
 
 <!-- 
+
+Guy in hoody sitting casually
+https://image.freepik.com/free-photo/hacker-sitting-laptop_23-2147985374.jpg
+
 Motorcycle guy with red wall
 https://images.unsplash.com/photo-1568621373774-ca41cb04043e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80 
 
@@ -77,19 +81,31 @@ https://images.unsplash.com/photo-1543336472-fcf478c443db?ixlib=rb-1.2.1&auto=fo
 <section id="about">
   <div>
     <img
-      alt="me"
-      src="https://images.unsplash.com/photo-1559581958-df379578606a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=647&q=80" />
+      alt="a-picture-of-me"
+      src="https://image.freepik.com/free-photo/hacker-sitting-laptop_23-2147985374.jpg" />
     <div class="icons">
-      <a target="_blank" href="https://www.instagram.com/zdrifted/">
+      <a
+        rel="noopener noreferrer"
+        target="_blank"
+        href="https://www.instagram.com/zdrifted/"></a>
         <i class="fab fa-instagram" />
       </a>
-      <a target="_blank" href="https://twitter.com/zdrifted">
+      <a
+        rel="noopener noreferrer"
+        target="_blank"
+        href="https://twitter.com/zdrifted">
         <i class="fab fa-twitter-square" />
       </a>
-      <a target="_blank" href="https://www.linkedin.com/in/zdrifted/">
+      <a
+        rel="noopener noreferrer"
+        target="_blank"
+        href="https://www.linkedin.com/in/zdrifted/">
         <i class="fab fa-linkedin" />
       </a>
-      <a target="_blank" href="https://www.github.com/zdrifted">
+      <a
+        rel="noopener noreferrer"
+        target="_blank"
+        href="https://www.github.com/zdrifted">
         <i class="fab fa-github-square" />
       </a>
     </div>
@@ -98,9 +114,7 @@ https://images.unsplash.com/photo-1543336472-fcf478c443db?ixlib=rb-1.2.1&auto=fo
   <div class="bio">
     <h1>Hi, I'm Luis</h1>
     <p>
-      I am a freelance web developer.
-      <br />
-      Highly interested in contract to hire positions.
+      I use websites and marketing tools to help you reach your business goals.
     </p>
   </div>
 </section>

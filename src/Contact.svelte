@@ -54,6 +54,7 @@
   <form data-netlify="true" name="contact" method="POST" class="form">
 
     <div>
+      <input type="hidden" name="form-name" value="contact" />
       <label for="email">Email address</label>
       <input
         type="email"
