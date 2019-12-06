@@ -62,7 +62,7 @@
   <div class="alternate">
     <h1>Ecommerce</h1>
     <p>An online store built with Gatsby, Tailwindcss and Stripe</p>
-    <a target="_blank" href="https://beginnerbase.com">Link</a>
+    <a target="_blank" href="https://ecommerce-gatsbyjs.netlify.com/">Link</a>
   </div>
 
   <div class="primary">
