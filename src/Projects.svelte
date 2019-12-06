@@ -53,7 +53,6 @@
 </style>
 
 <section id="projects">
-
   <div class="primary">
     <h1>Blog Website</h1>
     <p>Just my thoughts</p>
@@ -61,22 +60,20 @@
   </div>
 
   <div class="alternate">
-    <h1>News Fetcher</h1>
-    <p>Made with React, styled-components and a News API</p>
-    <a target="_blank" href="https://fetch-news.netlify.com">Link</a>
+    <h1>Ecommerce</h1>
+    <p>An online store built with Gatsby, Tailwindcss and Stripe</p>
+    <a target="_blank" href="https://beginnerbase.com">Link</a>
   </div>
 
   <div class="primary">
-    <h1>Simon Game</h1>
-    <p>Made with vanilla JavaScript and plain CSS</p>
-    <a target="_blank" href="https://simon-gamer.netlify.com">Link</a>
+    <h1>News Fetcher</h1>
+    <p>Made with React, styled-components and the News API</p>
+    <a target="_blank" href="https://fetch-news.netlify.com">Link</a>
   </div>
 
   <div class="alternate">
-    <h1>CSS Grid Portfolio</h1>
-    <p>Made with CSS Grid and Firebase</p>
-    <a target="_blank" href="https://zdrifted.github.io/grid-portfolio/ ">
-      Github
-    </a>
+    <h1>Simon Game</h1>
+    <p>Made with vanilla JavaScript and plain CSS</p>
+    <a target="_blank" href="https://simon-gamer.netlify.com">Link</a>
   </div>
 </section>
