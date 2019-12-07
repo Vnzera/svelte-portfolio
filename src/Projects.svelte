@@ -2,9 +2,9 @@
   section {
     display: flex;
     flex-wrap: wrap;
-    padding: 5rem;
+    padding: 10rem;
     justify-content: space-evenly;
-    background-color: #0b0b0b;
+    background-color: #000000;
     border: solid 0.01px #3e4f85;
     box-shadow: 2px 2px 6px rgb(0, 0, 0);
   }
