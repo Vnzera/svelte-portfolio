@@ -4,6 +4,7 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     height: 30rem;
+    max-width: 65rem;
     margin: 0 auto 1rem auto;
     padding: 8rem 5rem 16rem 5rem;
   }
