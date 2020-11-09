@@ -88,12 +88,6 @@ https://images.unsplash.com/photo-1543336472-fcf478c443db?ixlib=rb-1.2.1&auto=fo
       <a
         rel="noopener noreferrer"
         target="_blank"
-        href="https://www.instagram.com/zdrifted/">
-        <i class="fab fa-instagram" />
-      </a>
-      <a
-        rel="noopener noreferrer"
-        target="_blank"
         href="https://twitter.com/zdrifted">
         <i class="fab fa-twitter-square" />
       </a>

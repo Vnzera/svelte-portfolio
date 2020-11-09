@@ -3,6 +3,7 @@
   import About from "./About.svelte";
   import Projects from "./Projects.svelte";
   import Contact from "./Contact.svelte";
+  import Footer from "./Footer.svelte";
 </script>
 
 <style>
@@ -19,3 +20,4 @@
 <About />
 <Projects />
 <Contact />
+<Footer />
