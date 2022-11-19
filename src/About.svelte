@@ -88,19 +88,19 @@ https://images.unsplash.com/photo-1543336472-fcf478c443db?ixlib=rb-1.2.1&auto=fo
       <a
         rel="noopener noreferrer"
         target="_blank"
-        href="https://twitter.com/zdrifted">
+        href="https://twitter.com/V_nzera">
         <i class="fab fa-twitter-square" />
       </a>
       <a
         rel="noopener noreferrer"
         target="_blank"
-        href="https://www.linkedin.com/in/zdrifted/">
+        href="https://www.linkedin.com/in/venzera/">
         <i class="fab fa-linkedin" />
       </a>
       <a
         rel="noopener noreferrer"
         target="_blank"
-        href="https://www.github.com/zdrifted">
+        href="https://www.github.com/vnzera">
         <i class="fab fa-github-square" />
       </a>
     </div>
